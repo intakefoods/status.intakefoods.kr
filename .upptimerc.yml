@@ -16,6 +16,6 @@ assignees:
 status-website:
   cname: status.intakefoods.kr
   logoUrl: https://www.shopintake.com/static/intake/img/common/favicon.ico
-  name: status.intakefoods
+  name: INTAKE Status
   introTitle: "**status.intakefoods** is uptime monitor and status page for INTAKE Co., Ltd., powered entirely by GitHub."
   introMessage: INTAKE가 만드는 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
