@@ -10,7 +10,7 @@ sites:
     url: https://www.intakefoods.kr
 notifications:
   - type: slack
-    channel: C016QTU9S9Y
+    channel: C01CX8QJJKB
 assignees:
   - youngilcho
 status-website:
