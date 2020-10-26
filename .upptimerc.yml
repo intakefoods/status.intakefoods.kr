@@ -18,4 +18,4 @@ status-website:
   logoUrl: https://www.shopintake.com/static/intake/img/common/favicon.ico
   name: status.intakefoods
   introTitle: "**status.intakefoods** is uptime monitor and status page for INTAKE Co., Ltd., powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introMessage: INTAKE가 만드는 서비스들의 현재 상태입니다. GitHub Actions 를 이용한 Upptime 으로 운영되고 있습니다.
