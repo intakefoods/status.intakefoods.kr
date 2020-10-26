@@ -1,50 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Shopintake",
+    "url": "https://www.shopintake.com",
+    "slug": "shopintake",
     "status": "up",
     "uptime": "100.00",
-    "time": 85
+    "time": 1555
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "FoodB2B",
+    "url": "https://www.foodb2b.kr",
+    "slug": "food-b2-b",
     "status": "up",
     "uptime": "100.00",
-    "time": 178
+    "time": 2385
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
+    "name": "Intakefoods",
+    "url": "https://www.intakefoods.kr",
+    "slug": "intakefoods",
     "status": "up",
     "uptime": "100.00",
-    "time": 463
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 319
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 51
+    "time": 2050
   }
 ]
