@@ -1,4 +1,4 @@
-# [![Upptime](./assets/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://status.intakefoods.kr): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,14 +8,13 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Shopintake](https://www.shopintake.com) | 🟩 Up | [shopintake.yml](https://github.com/intakefoods/status.intakefoods.kr/commits/master/history/shopintake.yml) | <img alt="Response time graph" src="./graphs/shopintake.png" height="20"> 1790ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fintakefoods%2Fstatus.intakefoods.kr%2Fmaster%2Fapi%2Fshopintake%2Fuptime.json)
-| [FoodB2B](https://www.foodb2b.kr) | 🟩 Up | [food-b2-b.yml](https://github.com/intakefoods/status.intakefoods.kr/commits/master/history/food-b2-b.yml) | <img alt="Response time graph" src="./graphs/food-b2-b.png" height="20"> 1649ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fintakefoods%2Fstatus.intakefoods.kr%2Fmaster%2Fapi%2Ffood-b2-b%2Fuptime.json)
-| [Intakefoods](https://www.intakefoods.kr) | 🟩 Up | [intakefoods.yml](https://github.com/intakefoods/status.intakefoods.kr/commits/master/history/intakefoods.yml) | <img alt="Response time graph" src="./graphs/intakefoods.png" height="20"> 1758ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fintakefoods%2Fstatus.intakefoods.kr%2Fmaster%2Fapi%2Fintakefoods%2Fuptime.json)
+| [Shopintake](https://www.shopintake.com) | 🟩 Up | [shopintake.yml](https://github.com/intakefoods/status.intakefoods.kr/commits/master/history/shopintake.yml) | <img alt="Response time graph" src="./graphs/shopintake.png" height="20"> 1803ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fintakefoods%2Fstatus.intakefoods.kr%2Fmaster%2Fapi%2Fshopintake%2Fuptime.json)
+| [FoodB2B](https://www.foodb2b.kr) | 🟩 Up | [food-b2-b.yml](https://github.com/intakefoods/status.intakefoods.kr/commits/master/history/food-b2-b.yml) | <img alt="Response time graph" src="./graphs/food-b2-b.png" height="20"> 1732ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fintakefoods%2Fstatus.intakefoods.kr%2Fmaster%2Fapi%2Ffood-b2-b%2Fuptime.json)
+| [Intakefoods](https://www.intakefoods.kr) | 🟩 Up | [intakefoods.yml](https://github.com/intakefoods/status.intakefoods.kr/commits/master/history/intakefoods.yml) | <img alt="Response time graph" src="./graphs/intakefoods.png" height="20"> 1723ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fintakefoods%2Fstatus.intakefoods.kr%2Fmaster%2Fapi%2Fintakefoods%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
@@ -330,7 +329,7 @@ Similarly, response time badges are available: ![Response time](https://img.shie
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE) © [Intakefoods](http://www.intakefoods.kr)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
 <p align="center">
