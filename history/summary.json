@@ -5,7 +5,7 @@
     "slug": "shopintake",
     "status": "up",
     "uptime": "100.00",
-    "time": 1790
+    "time": 1834
   },
   {
     "name": "FoodB2B",
@@ -13,7 +13,7 @@
     "slug": "food-b2-b",
     "status": "up",
     "uptime": "100.00",
-    "time": 1688
+    "time": 1713
   },
   {
     "name": "Intakefoods",
@@ -21,6 +21,6 @@
     "slug": "intakefoods",
     "status": "up",
     "uptime": "100.00",
-    "time": 1775
+    "time": 1799
   }
 ]
