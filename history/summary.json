@@ -3,24 +3,24 @@
     "name": "Shopintake",
     "url": "https://www.shopintake.com",
     "slug": "shopintake",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1761
+    "time": 1757
   },
   {
     "name": "FoodB2B",
     "url": "https://www.foodb2b.kr",
     "slug": "food-b2-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1594
+    "time": 1580
   },
   {
     "name": "Intakefoods",
     "url": "https://www.intakefoods.kr",
     "slug": "intakefoods",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1851
+    "time": 1905
   }
 ]
