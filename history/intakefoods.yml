@@ -1,7 +1,7 @@
 - url: https://www.intakefoods.kr
-- status: up
+- status: down
 - code: 200
-- responseTime: 1261
-- lastUpdated: 2020-11-18T23:12:22.690Z
+- responseTime: 3028
+- lastUpdated: 2020-11-19T06:48:01.352Z
 - startTime: 2020-10-26T02:37:50.475Z
 - generator: Upptime <https://github.com/upptime/upptime>
