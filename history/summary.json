@@ -4,15 +4,15 @@
     "url": "https://www.shopintake.com",
     "slug": "shopintake",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1721
+    "uptime": "100.00%",
+    "time": 1726
   },
   {
     "name": "FoodB2B",
     "url": "https://www.foodb2b.kr",
     "slug": "food-b2-b",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 1599
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://www.intakefoods.kr",
     "slug": "intakefoods",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1904
+    "uptime": "100.00%",
+    "time": 1901
   }
 ]
