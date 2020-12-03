@@ -5,7 +5,15 @@
     "slug": "shopintake",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1755
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1748,
+    "timeDay": 1449,
+    "timeWeek": 1869,
+    "timeMonth": 1729,
+    "timeYear": 1748
   },
   {
     "name": "FoodB2B",
@@ -13,7 +21,15 @@
     "slug": "food-b2-b",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1576
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1572,
+    "timeDay": 1394,
+    "timeWeek": 1564,
+    "timeMonth": 1522,
+    "timeYear": 1572
   },
   {
     "name": "Intakefoods",
@@ -21,6 +37,14 @@
     "slug": "intakefoods",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1899
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1901,
+    "timeDay": 1984,
+    "timeWeek": 1888,
+    "timeMonth": 1955,
+    "timeYear": 1901
   }
 ]
