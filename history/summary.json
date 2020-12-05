@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1762,
-    "timeDay": 2311,
-    "timeWeek": 1890,
-    "timeMonth": 1751,
-    "timeYear": 1762
+    "time": 1756,
+    "timeDay": 1498,
+    "timeWeek": 1872,
+    "timeMonth": 1742,
+    "timeYear": 1756
   },
   {
     "name": "FoodB2B",
@@ -26,9 +26,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1569,
-    "timeDay": 1455,
-    "timeWeek": 1379,
-    "timeMonth": 1520,
+    "timeDay": 1606,
+    "timeWeek": 1414,
+    "timeMonth": 1523,
     "timeYear": 1569
   },
   {
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1906,
-    "timeDay": 2084,
-    "timeWeek": 1899,
+    "time": 1908,
+    "timeDay": 1974,
+    "timeWeek": 1948,
     "timeMonth": 1960,
-    "timeYear": 1906
+    "timeYear": 1908
   }
 ]
