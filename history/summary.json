@@ -22,18 +22,20 @@
     "url": "https://www.foodb2b.kr",
     "icon": "https://favicons.githubusercontent.com/www.foodb2b.kr",
     "slug": "food-b2-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1873,
-    "timeDay": 2151,
-    "timeWeek": 1533,
-    "timeMonth": 2270,
-    "timeYear": 1873,
-    "dailyMinutesDown": {}
+    "time": 1862,
+    "timeDay": 1520,
+    "timeWeek": 1453,
+    "timeMonth": 2227,
+    "timeYear": 1862,
+    "dailyMinutesDown": {
+      "2021-01-22": 0
+    }
   },
   {
     "name": "Intakefoods",
