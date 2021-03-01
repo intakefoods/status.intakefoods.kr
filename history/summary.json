@@ -4,19 +4,19 @@
     "url": "https://www.shopintake.com",
     "icon": "https://favicons.githubusercontent.com/www.shopintake.com",
     "slug": "shopintake",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1824,
-    "timeDay": 1501,
-    "timeWeek": 1819,
-    "timeMonth": 1911,
-    "timeYear": 1824,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.91%",
+    "time": 1886,
+    "timeDay": 4224,
+    "timeWeek": 2691,
+    "timeMonth": 2169,
+    "timeYear": 1886,
     "dailyMinutesDown": {
-      "2021-03-01": 0
+      "2021-03-01": 172
     }
   },
   {
