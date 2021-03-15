@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.shopintake.com",
     "slug": "shopintake",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.89%",
-    "time": 1883,
-    "timeDay": 2000,
-    "timeWeek": 1764,
-    "timeMonth": 2104,
-    "timeYear": 1883,
+    "uptimeYear": "99.90%",
+    "time": 1879,
+    "timeDay": 1268,
+    "timeWeek": 1643,
+    "timeMonth": 2084,
+    "timeYear": 1879,
     "dailyMinutesDown": {
       "2021-03-10": 20,
       "2021-03-01": 191
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1785,
-    "timeDay": 1298,
-    "timeWeek": 1424,
-    "timeMonth": 1618,
-    "timeYear": 1785,
+    "time": 1781,
+    "timeDay": 1222,
+    "timeWeek": 1409,
+    "timeMonth": 1587,
+    "timeYear": 1781,
     "dailyMinutesDown": {
       "2021-01-22": 58
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2229,
-    "timeDay": 1961,
-    "timeWeek": 3373,
+    "time": 2227,
+    "timeDay": 2010,
+    "timeWeek": 3387,
     "timeMonth": 2235,
-    "timeYear": 2229,
+    "timeYear": 2227,
     "dailyMinutesDown": {}
   }
 ]
