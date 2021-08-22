@@ -27,11 +27,11 @@
     "icon": "https://favicons.githubusercontent.com/www.foodb2b.kr",
     "slug": "food-b2-b",
     "status": "up",
-    "uptime": "85.08%",
+    "uptime": "85.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.08%",
+    "uptimeYear": "85.11%",
     "time": 2094,
     "timeDay": 1417,
     "timeWeek": 1541,
@@ -96,9 +96,9 @@
     "url": "https://www.intakefoods.kr",
     "icon": "https://favicons.githubusercontent.com/www.intakefoods.kr",
     "slug": "intakefoods",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +107,8 @@
     "timeWeek": 1639,
     "timeMonth": 1977,
     "timeYear": 1990,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   }
 ]
