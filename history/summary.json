@@ -97,17 +97,19 @@
     "url": "https://www.intakefoods.kr",
     "icon": "https://favicons.githubusercontent.com/www.intakefoods.kr",
     "slug": "intakefoods",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2043,
-    "timeDay": 1704,
-    "timeWeek": 1949,
-    "timeMonth": 2505,
-    "timeYear": 2060,
-    "dailyMinutesDown": {}
+    "time": 2040,
+    "timeDay": 1244,
+    "timeWeek": 1803,
+    "timeMonth": 2449,
+    "timeYear": 2057,
+    "dailyMinutesDown": {
+      "2021-12-22": 0
+    }
   }
 ]
