@@ -1,7 +1,7 @@
 url: https://www.foodb2b.kr
-status: up
-code: 200
-responseTime: 12806
-lastUpdated: 2022-03-12T22:45:55.462Z
+status: down
+code: 503
+responseTime: 792
+lastUpdated: 2022-03-12T22:53:49.809Z
 startTime: Mon Oct 26 2020 02:37:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
