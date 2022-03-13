@@ -24,17 +24,17 @@
     "url": "https://www.foodb2b.kr",
     "icon": "https://favicons.githubusercontent.com/www.foodb2b.kr",
     "slug": "food-b2-b",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "71.27%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "72.87%",
     "uptimeWeek": "88.08%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.45%",
-    "time": 4010,
-    "timeDay": 6375,
-    "timeWeek": 5566,
-    "timeMonth": 6056,
-    "timeYear": 4379,
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.46%",
+    "time": 4007,
+    "timeDay": 5553,
+    "timeWeek": 5536,
+    "timeMonth": 6045,
+    "timeYear": 4375,
     "dailyMinutesDown": {
       "2022-03-13": 347,
       "2022-03-12": 65,
@@ -55,7 +55,7 @@
       "2022-02-23": 88,
       "2022-02-22": 66,
       "2022-02-21": 138,
-      "2022-02-20": 84
+      "2022-02-20": 65
     }
   },
   {
