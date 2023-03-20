@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1755,
-    "timeDay": 2194,
-    "timeWeek": 2000,
-    "timeMonth": 1889,
+    "time": 1756,
+    "timeDay": 1823,
+    "timeWeek": 1950,
+    "timeMonth": 1870,
     "timeYear": 1702,
     "dailyMinutesDown": {
       "2023-01-02": 30,
@@ -36,13 +36,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2156,
-    "timeDay": 851,
-    "timeWeek": 824,
-    "timeMonth": 831,
-    "timeYear": 901,
-    "dailyMinutesDown": {
-      "2022-03-20": 25
-    }
+    "timeDay": 960,
+    "timeWeek": 835,
+    "timeMonth": 834,
+    "timeYear": 900,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Intakefoods",
@@ -56,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 2381,
-    "timeDay": 2048,
-    "timeWeek": 1871,
-    "timeMonth": 1915,
-    "timeYear": 2287,
+    "timeDay": 1947,
+    "timeWeek": 1887,
+    "timeMonth": 1911,
+    "timeYear": 2286,
     "dailyMinutesDown": {
       "2022-05-24": 826,
       "2022-05-23": 1372
