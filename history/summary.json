@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1679,
-    "timeDay": 1497,
-    "timeWeek": 1563,
-    "timeMonth": 1557,
-    "timeYear": 1689,
+    "timeDay": 1345,
+    "timeWeek": 1476,
+    "timeMonth": 1539,
+    "timeYear": 1688,
     "dailyMinutesDown": {
       "2023-08-26": 16
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.foodb2b.kr.ico",
     "slug": "food-b2-b",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.58%",
     "time": 886,
-    "timeDay": 696,
-    "timeWeek": 815,
-    "timeMonth": 893,
+    "timeDay": 971,
+    "timeWeek": 829,
+    "timeMonth": 894,
     "timeYear": 899,
     "dailyMinutesDown": {
       "2023-08-10": 275,
@@ -63,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2361,
-    "timeDay": 1818,
-    "timeWeek": 2595,
-    "timeMonth": 3608,
-    "timeYear": 2470,
+    "time": 2362,
+    "timeDay": 2263,
+    "timeWeek": 2570,
+    "timeMonth": 3603,
+    "timeYear": 2471,
     "dailyMinutesDown": {}
   }
 ]
