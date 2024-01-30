@@ -1,7 +1,7 @@
 url: https://www.shopintake.com
-status: up
-code: 200
-responseTime: 4823
-lastUpdated: 2024-01-30T21:27:21.261Z
+status: down
+code: 403
+responseTime: 401
+lastUpdated: 2024-01-30T21:58:46.891Z
 startTime: 2020-10-26T02:37:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
