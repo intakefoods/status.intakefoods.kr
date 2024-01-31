@@ -4,15 +4,15 @@
     "url": "https://www.shopintake.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shopintake.com.ico",
     "slug": "shopintake",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "77.63%",
-    "uptimeWeek": "71.54%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
-    "time": 1584,
-    "timeDay": 1357,
-    "timeWeek": 1526,
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "78.85%",
+    "uptimeWeek": "72.10%",
+    "uptimeMonth": "93.58%",
+    "uptimeYear": "99.46%",
+    "time": 1583,
+    "timeDay": 1361,
+    "timeWeek": 1530,
     "timeMonth": 1507,
     "timeYear": 1569,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2024-01-28": 580,
       "2024-01-27": 373,
       "2024-01-26": 416,
-      "2024-01-25": 416
+      "2024-01-25": 360
     }
   },
   {
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.58%",
     "time": 887,
-    "timeDay": 957,
-    "timeWeek": 916,
-    "timeMonth": 860,
+    "timeDay": 835,
+    "timeWeek": 936,
+    "timeMonth": 864,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2023-08-10": 275,
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2374,
-    "timeDay": 2489,
-    "timeWeek": 2323,
-    "timeMonth": 2296,
-    "timeYear": 2467,
+    "timeDay": 2205,
+    "timeWeek": 2373,
+    "timeMonth": 2291,
+    "timeYear": 2468,
     "dailyMinutesDown": {}
   }
 ]
