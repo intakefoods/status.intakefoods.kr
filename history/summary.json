@@ -6,24 +6,24 @@
     "slug": "shopintake",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "64.03%",
-    "uptimeWeek": "72.13%",
-    "uptimeMonth": "93.20%",
+    "uptimeDay": "67.44%",
+    "uptimeWeek": "72.22%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 1458,
-    "timeDay": 1635,
-    "timeWeek": 1575,
+    "timeDay": 1628,
+    "timeWeek": 1573,
     "timeMonth": 1443,
     "timeYear": 1446,
     "dailyMinutesDown": {
-      "2024-03-08": 516,
+      "2024-03-08": 506,
       "2024-03-07": 333,
       "2024-03-06": 259,
       "2024-03-05": 336,
       "2024-03-04": 426,
       "2024-03-03": 463,
       "2024-03-02": 478,
-      "2024-03-01": 168
+      "2024-03-01": 184
     }
   },
   {
