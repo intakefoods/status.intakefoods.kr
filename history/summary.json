@@ -4,15 +4,15 @@
     "url": "https://www.shopintake.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shopintake.com.ico",
     "slug": "shopintake",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "62.01%",
-    "uptimeWeek": "72.49%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "62.00%",
+    "uptimeWeek": "72.56%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 1475,
-    "timeDay": 1751,
-    "timeWeek": 1610,
+    "timeDay": 1732,
+    "timeWeek": 1607,
     "timeMonth": 1509,
     "timeYear": 1467,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2024-03-13": 422,
       "2024-03-12": 442,
       "2024-03-11": 418,
-      "2024-03-10": 103
+      "2024-03-10": 59
     }
   },
   {
